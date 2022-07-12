@@ -98,3 +98,7 @@ ENV/
 # mypy
 .mypy_cache/
 .DS_Store
+lib64
+settings.json
+pyvenv*
+python*
